@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Path@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Topbaby-UI-Main" transform="translate(-736.000000, -1862.000000)" fill="#7699EB" fill-rule="nonzero">
+            <g id="4-screen" transform="translate(165.000000, 1626.000000)">
+                <g id="GRACO" transform="translate(1.000000, 114.000000)">
+                    <g id="Graco-entdecken" transform="translate(398.000000, 116.000000)">
+                        <path d="M178.218906,11.6707031 L172.778085,6.13570009 C172.599823,5.95445857 172.311213,5.95476326 172.133249,6.13663759 C171.955423,6.31848848 171.955883,6.61307333 172.134168,6.79445547 L177.251135,12.0000222 L172.133984,17.2055654 C171.955722,17.386971 171.955263,17.6813684 172.133065,17.8632427 C172.222277,17.9544142 172.33915,18 172.456023,18 C172.572598,18 172.689012,17.9547189 172.778062,17.8641802 L178.218906,12.3293178 C178.304763,12.2421775 178.352941,12.1235842 178.352941,12.0000222 C178.352941,11.8764601 178.304625,11.7580074 178.218906,11.6707031 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

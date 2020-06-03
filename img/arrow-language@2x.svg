@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="7px" viewBox="0 0 13 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>arrow-language@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Topbaby-UI-Main" transform="translate(-1207.000000, -64.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="1-screen" transform="translate(0.000000, -60.000000)">
+                <g id="language" transform="translate(1142.500000, 119.000000)">
+                    <path d="M74.3523128,8.14326167 L68.3573346,2.14700843 C68.1609162,1.95066346 67.8429101,1.95099353 67.6468208,2.14802405 C67.4508833,2.34502919 67.4513896,2.66416277 67.6478334,2.86066009 L73.2859724,8.50002402 L67.6476308,14.1393626 C67.4512124,14.3358853 67.4507061,14.6548157 67.6466182,14.8518463 C67.7449161,14.9506154 67.8736931,15 68.0024701,15 C68.130918,15 68.2591887,14.9509455 68.3573093,14.8528619 L74.3523128,8.85676098 C74.4469146,8.76235899 74.5,8.6338829 74.5,8.50002402 C74.5,8.36616514 74.4467627,8.23784139 74.3523128,8.14326167 Z" id="arrow-language" transform="translate(71.000000, 8.500000) rotate(-270.000000) translate(-71.000000, -8.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
